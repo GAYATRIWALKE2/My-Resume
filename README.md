@@ -17,11 +17,11 @@
   
     <h3><b1>Skills</b></h3>
       <ul>
-        <li>Python Programming</li>
-        <li>Html Css</li>
-        <li>R certificate</li>
-        <li>Advanced CPP certificate</li>
-      </ul>
+      <li>Python Programming</li>
+     <li>Html Css</li>
+     <li>R certificate</li>
+    <li>Advanced CPP certificate</li>
+   </ul>
    <h4><b1>Hobbies<b1></h4>
      <ul>
        <li>Reading</li>
