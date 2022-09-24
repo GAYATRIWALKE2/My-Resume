@@ -15,7 +15,7 @@
       <li>To build my career under organization which provides opportunities and help to grow professional skills and would lead me for a better career with</li>
     </ul>
   
-    <h3><b1>Skills</b></h3>
+    <h2><b1>Skills</b></h2>
       <ul>
       <li>Python Programming</li>
      <li>Html Css</li>
