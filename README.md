@@ -15,13 +15,13 @@
       <li>To build my career under organization which provides opportunities and help to grow professional skills and would lead me for a better career with</li>
     </ul>
   
-    <h2><b1>Skills</b></h2>
-      <ul>
-      <li>Python Programming</li>
-     <li>Html Css</li>
-     <li>R certificate</li>
-    <li>Advanced CPP certificate</li>
-   </ul>
+    <h2><b1>Skills></b1></h2>
+    <ul>
+      <li>Pythom Programming</li>
+      <li>Html,Css</li>
+      <li>R Certificate</li>
+      <li>Advanced Cpp Certificate</li>
+    </ul>
    <h4><b1>Hobbies<b1></h4>
      <ul>
        <li>Reading</li>
