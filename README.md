@@ -10,10 +10,7 @@
       <h2><i>Summary</i></h2>
       <p>I had completed my Computer Application degree from Savitribai Phule University.Skilled in python,html,css,java</p>
       <img src="https://media-exp1.licdn.com/dms/image/D5603AQHnBaYR4szpYQ/profile-displayphoto-shrink_400_400/0/1663690482228?e=1669248000&v=beta&t=NMO4bTx3pimPMB-Z_jmv7BMIufEsZ93CsBYLHvIRQFc" >
-    <h2><b1>Objective</b1></h2>
-    <ul>
-      <li>To build my career under organization which provides opportunities and help to grow professional skills and would lead me for a better career with</li>
-    </ul>
+   
   
     <h2><b1>Skills></b1></h2>
     <ul>
